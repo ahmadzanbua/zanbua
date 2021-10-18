@@ -3,7 +3,7 @@ import pandas as pd
 from PIL import Image
 from database import *
 from database import edit_task_data
-import plotly-5.3.1.express as px
+import plotly.express as px
 
 
 # Primary accent for interactive elements
